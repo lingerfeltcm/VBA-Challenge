@@ -1,2 +1,6 @@
 # Challenge-2
 VU Data Analytics Challenge 2
+I used code that is a variation based on the solution code for the Credit Card Checker (Day 3 of VBA) that we went over in VBA class in order to get the unique values of the stock tickers and calculate the total volume of each stock ticker. I also used code from the Census data activity from that same day to have the code work on each individual worksheet.
+I used code from written by user Yoav24 at https://stackoverflow.com/questions/42633273/finding-max-of-a-column-in-vba to help come up with the code for the variables of max, min, and volmax. and then wrote my own code from there.
+I had tutoring with Simon Rennocks the evening of November 29th, and he helped me trouble shoot my code for calculating the yearly change specifically adding in the variable "oi" and making that equal 2 as well as correcting code I had written for my "cp" variable and yrchange equation.
+I also used a variation of code I saw on https://stackoverflow.com/questions/33730578/how-to-make-sure-numbers-with-decimals-contain-exactly-two-decimals-in-vba to format my percentage columns to the correct number of decimal places. A screenshot of the exact comment is included with my screenshots.
